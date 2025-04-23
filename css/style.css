@@ -28,36 +28,43 @@ body {
 
 img {
   padding-bottom: 2em;
-  box-shadow: 5em;
+  box-shadow: 8em;
 }
 
 h1 {
   color: #FF3B3F;
   font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
-a {
-  text-decoration: none;
-  color: #95b2b0;
-}
 
 h2 {
   color: black;
 }
 
-button{
-  color: white;
-  background-color: #E63946;
+h3 {
   font-size: 2em;
 }
 
-button:hover{
+a {
+  text-decoration: none;
+  color: #95b2b0;
+}
+
+
+button {
+  color: white;
+  background-color: #E63946;
+  font-size: 2.5em;
+}
+
+button:hover {
   color: #E63946;
   background-color: yellow;
 }
+
 /******************************************
 /* LAYOUT
 /*******************************************/
-div{
+div {
   display: flex;
   flex-direction: column;
   align-items: center;
