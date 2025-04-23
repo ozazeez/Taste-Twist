@@ -22,7 +22,8 @@
 /*******************************************/
 
 body {
-  background-color: #c6ebbe;
+  background-color: #FFF3B0;
+  font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif;
 }
 
 img {
@@ -31,9 +32,9 @@ img {
 }
 
 h1 {
-  color: #020887;
+  color: #FF3B3F;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
-
 a {
   text-decoration: none;
   color: #95b2b0;
@@ -43,6 +44,16 @@ h2 {
   color: black;
 }
 
+button{
+  color: white;
+  background-color: #E63946;
+  font-size: 2em;
+}
+
+button:hover{
+  color: #E63946;
+  background-color: yellow;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
