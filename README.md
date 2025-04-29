@@ -1,3 +1,5 @@
-# Taste-Twist
+Project Name: Taste-Twist
 
-Create an application that genrates a random dish from a free api. With the reponse, display an image of the dish as well as a link to the recipe card.
+Description: A web application that fetches a random dish from a free API, displaying the dish's image and providing a link to its recipe card.​
+
+Tech Stack: HTML CSS, JavaScript
