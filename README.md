@@ -1,7 +1,7 @@
 # 🍽️ Taste-Twists
 
 **Taste-Twist** is a delightful web application that fetches a random dish from a free API, displaying the dish's image and providing a link to its recipe card. It's perfect for food enthusiasts looking to explore new recipes effortlessly.
-
+Check it out live 👉 [TasteTwists](https://tastetwists.netlify.app/) 
 ---
 
 ## 🧠 About The Project
